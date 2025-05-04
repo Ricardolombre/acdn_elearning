@@ -4,7 +4,7 @@ Bienvenue sur la plateforme de formation en ligne de l’**Association Congolais
 
 ## 🌐 Accès à l’application
 
-**URL** : [https://acdn_elearning.netlify.app]
+**URL** : [[https://acdn-elearning.netlify.app](https://acdn-elearning.netlify.app)]
 
 ## 📚 À propos du projet
 
